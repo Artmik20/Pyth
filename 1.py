@@ -6,7 +6,7 @@ with my_f:
         my_f.write(f"{b}\n")
 
         if not b:
-
+            break
 
 
 
