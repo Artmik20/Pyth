@@ -5,8 +5,8 @@ with my_f:
         b = (input("Введите текст "))
         my_f.write(f"{b}\n")
 
-        if not b:
-            break
+
+
 
 
 
